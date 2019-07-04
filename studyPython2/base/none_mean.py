@@ -1,5 +1,4 @@
-
-#None means null
-name=''
-a=None
-print 'name=',a
+# None means null
+name = ''
+a = None
+print 'name=', a
