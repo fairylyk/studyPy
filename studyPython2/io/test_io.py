@@ -9,8 +9,11 @@ import codecs
 class TestIo(object):
 
     def test_open_read(self):
-        # 获取当前目录os.getcwd(), 拼接文件路径
+        # 获取当前目录os.getcwd(), 拼接文件路径   test_io.py
         path = os.path.join(os.getcwd(), 'test_io.py')
+        File = open(path, "w")
+        pdfgen_log_contents=""
+        File.write(pdfgen_log_contents)
 
         # 为了避免文件读写中出现错误导致文件无法关闭，添加try finally块
         try:
@@ -40,4 +43,33 @@ class TestIo(object):
         path = os.path.join(os.getcwd(), 'data/image.png')
         f = open(path, 'r')
         # f.read().decode('gbk')
-        print char
+        print
+
+    def test_get_contents(self):
+        has_found = False
+        path = os.path.join(os.getcwd(), 'data/pdfgen.log')
+        with open(path, 'r') as f:
+            file_context = f.read()
+            lines = file_context.split(self.TEST_DATA_DIR["linux"])
+            for line in reversed(lines):
+                if 'ERROR' in line and 'Failed to retrieve customize logo error' in line:
+                    has_found = True
+                    break
+        return has_found
+
+
+    TEST_DATA_DIR = {
+        'windows': '\r\n',
+        'linux': '\n'
+    }
+    def get_remote_test_data_dir(self, os_type):
+        """
+        :type os_type: string
+        :param os_type: windows or linux
+
+        :rtype: string
+        :return: the test_data_dir
+        """
+        return self.TEST_DATA_DIR[os_type.lower()]
+
+
