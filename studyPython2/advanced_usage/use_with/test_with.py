@@ -2,7 +2,7 @@
 # vim: set fileencoding=utf-8 :
 
 import with_method
-
+import with_method2
 
 # with 语句适用于对资源进行访问的场合，
 # 确保不管使用过程中是否发生异常都会执行必要的“清理”操作，
@@ -25,5 +25,5 @@ class TestWith(object):
         #     print 'running。。。。。。'
 
         with with_method.get_with_method() as f1, \
-                with_method.get_with_method() as f2:
+                with_method2.get_with_method2() as f2:
             print 'running2。。。。。。'
