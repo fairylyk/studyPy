@@ -26,13 +26,13 @@ class TestListComprehension(object):
 
         greater_than_three = [num for num in num_list if num > 3]
 
-        # [5, 6]
+        # result [5, 6]
         print greater_than_three
 
     def test_comprehension_dict(self):
         d = {'x': 'A', 'y': 'B', 'z': 'C'}
         result_list = [k + '=' + v for k, v in d.iteritems()]
-        print  result_list
+        print result_list
 
 
 
