@@ -21,7 +21,8 @@ class TestIoOpenError(object):
                 line = file.readline()
                 if not line:
                     break
-                if 'ERROR' in line and 'Failed to retrieve customize logo error' in line:
+                if ('ERROR' in line and
+                        'Failed to retrieve customize logo error' in line):
                     has_found = True
                     break
         print has_found
