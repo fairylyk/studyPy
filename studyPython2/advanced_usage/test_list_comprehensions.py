@@ -1,6 +1,10 @@
 #!/usr/bin/python
 # vim: set fileencoding=utf-8 :
 
+"""
+列表生成式
+"""
+
 
 class TestListComprehension(object):
 

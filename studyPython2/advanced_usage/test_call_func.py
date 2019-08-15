@@ -22,7 +22,7 @@ class TestCallFunc(object):
             num = 3
             self.change_num = self.change_num+num
             print ("get_detail--num", num,
-                   "get_detail--changge_num", self.change_num)
+                   "get_detail--change_num", self.change_num)
 
         self.print_change_detail(
             get_detail(), self.change_number(3))
