@@ -4,6 +4,10 @@
 
 class TestMap(object):
 
+    """
+    Map :将list的对象按照fun执行以后，返回结果
+    """
+
     def func_param(self, num):
         return num*num
 

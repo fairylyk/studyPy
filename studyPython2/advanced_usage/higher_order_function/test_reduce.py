@@ -4,6 +4,9 @@
 
 class TestReduce(object):
 
+    """
+    reduce：对应的函数必须有两个参数，上次计算的结果为下一次执行fun的第一个参数
+    """
     def add(self, x, y):
         return x+y
 
