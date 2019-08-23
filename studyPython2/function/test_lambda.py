@@ -6,9 +6,13 @@ class TestLambda(object):
 
     """
     lambda:格式--> lambda arg1,arg2: expression
-
+    lambda: 返回expression的结果
     """
-    def test_lambda(self):
+
+    def anonymous_fun(self, x, y):
+        return lambda: x+y
+
+    def test_lambda_assert(self):
         # 没有参数, 当没有参数的时候调用时也应该添加（）
         lambda_none = lambda: 1 != 2
         print "\n没有参数lambda_none:", lambda_none
@@ -27,5 +31,10 @@ class TestLambda(object):
         num_list = [(1, 2), (3, 4), (-1, -3)]
         num_list.sort(key=lambda x: x[0])
         print num_list
+
+    def test_lambda_anonymous_fun(self):
+        result = self.anonymous_fun(5, 7)
+        print result()
+
 
 
