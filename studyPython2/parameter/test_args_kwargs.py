@@ -12,13 +12,23 @@ class TestArgsKwargs(object):
         for arg in args:
             print arg
 
-    def kwargs_method(self, **kwargs):
+    def kwargs_method(self, a, **kwargs):
         """
         函数接收可变长度的关键字参数列表作为函数的输入
         """
-        print
+        print a
         for key, value in kwargs.iteritems():
             print key + ":" + value
+
+    def kwargs_method_a(self, a, **kwargs):
+        """
+        函数接收可变长度的关键字参数列表作为函数的输入
+        """
+        self.kwargs_method(a, kwargs)
+
+    def test_kwargs_1(self):
+
+        self.kwargs_method("1", Java='5')
 
     def normal_arg(self, arg1, arg2, arg3):
         print

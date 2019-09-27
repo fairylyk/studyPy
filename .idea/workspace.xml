@@ -2,12 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26814272-007d-4d25-a13c-a0c30d4db5cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/studyPython2/advanced_usage/decorator/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studyPython2/advanced_usage/decorator/log_decorator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studyPython2/advanced_usage/test_partial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studyPython2/advanced_usage/test_return_fun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studyPython2/advanced_usage/access_permissions_for_para/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studyPython2/advanced_usage/access_permissions_for_para/student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studyPython2/advanced_usage/access_permissions_for_para/test_para.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/bird.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/custom_classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/flyable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/mammal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/parrot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/primary_student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/runnable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/test_para_attr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studyPython2/advanced_usage/test_scope_para.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studyPython2/special_for_usage/setup_teardown/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studyPython2/special_for_usage/setup_teardown/test_setup_teardown.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studyPython2/function/test_lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/studyPython2/function/test_lambda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studyPython2/parameter/test_args_kwargs.py" beforeDir="false" afterPath="$PROJECT_DIR$/studyPython2/parameter/test_args_kwargs.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,25 +31,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/higher_order_function/test_reduce.py">
+        <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/primary_student.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1">
+            <state>
               <caret selection-end-line="1" selection-end-column="31" />
+              <folding>
+                <element signature="e#50#63#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/higher_order_function/test_filter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/test_call_func.py">
+        <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/animal.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret selection-end-line="1" selection-end-column="31" />
@@ -45,7 +52,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/higher_order_function/test_sorted.py">
+        <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/dog.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+              <folding>
+                <element signature="e#50#75#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/mammal.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret selection-end-line="1" selection-end-column="31" />
@@ -54,42 +73,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/test_return_fun.py">
+        <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/parrot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="31" />
+            <state relative-caret-position="60">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#50#71#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/test_partial.py">
+        <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/custom_classes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+            <state relative-caret-position="335">
+              <caret line="47" column="10" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/decorator/log_decorator.py">
+        <entry file="file://$PROJECT_DIR$/studyPython2/base/test_dict_set.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="14" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="14" />
+            <state relative-caret-position="-147">
+              <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/runnable.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/studyPython2/function/test_lambda.py">
+        <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/flyable.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="19" column="25" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="25" />
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/bird.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -110,25 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/studyPython2/base/test_string.py" />
-        <option value="$PROJECT_DIR$/studyPython2/base/study_string.py" />
-        <option value="$PROJECT_DIR$/studyPython2/base/test_method.py" />
-        <option value="$PROJECT_DIR$/studyPython2/io/test_io.py" />
-        <option value="$PROJECT_DIR$/studyPython2/advanced_usage/test_with.py" />
-        <option value="$PROJECT_DIR$/studyPython2/advanced_usage/use_with/with_method.py" />
-        <option value="$PROJECT_DIR$/studyPython2/advanced_usage/test_args_kwargs.py" />
-        <option value="$PROJECT_DIR$/studyPython2/advanced_usage/use_with/with_method2.py" />
-        <option value="$PROJECT_DIR$/studyPython2/parameter/test_base_para.py" />
-        <option value="$PROJECT_DIR$/studyPython2/function/test_advanced_function.py" />
-        <option value="$PROJECT_DIR$/studyPython2/parameter/test_default_para.py" />
-        <option value="$PROJECT_DIR$/studyPython2/function/test_python.py" />
-        <option value="$PROJECT_DIR$/studyPython2/function/test_format.py" />
-        <option value="$PROJECT_DIR$/studyPython2/function/format/example_object.py" />
-        <option value="$PROJECT_DIR$/studyPython2/function/format/test_format.py" />
-        <option value="$PROJECT_DIR$/studyPython2/advanced_usage/test_function.py" />
-        <option value="$PROJECT_DIR$/studyPython2/special_for_ues/send_emil.py" />
-        <option value="$PROJECT_DIR$/studyPython2/base/test_dict_set.py" />
-        <option value="$PROJECT_DIR$/studyPython2/special_for_ues/send_email/send_email.py" />
         <option value="$PROJECT_DIR$/studyPython2/special_for_ues/send_email/test_send_email.py" />
         <option value="$PROJECT_DIR$/studyPython2/special_for_ues/jump_double_loop/test_junp_double_loop.py" />
         <option value="$PROJECT_DIR$/studyPython2/function/test_recursive_function.py" />
@@ -161,14 +177,33 @@
         <option value="$PROJECT_DIR$/studyPython2/advanced_usage/decorator/test_decorator.py" />
         <option value="$PROJECT_DIR$/studyPython2/advanced_usage/decorator/log_decorator.py" />
         <option value="$PROJECT_DIR$/studyPython2/advanced_usage/test_partial.py" />
+        <option value="$PROJECT_DIR$/studyPython2/special_for_usage/setup_teardown/test_setup_teardown.py" />
+        <option value="$PROJECT_DIR$/studyPython2/advanced_usage/test_scope_para.py" />
+        <option value="$PROJECT_DIR$/studyPython2/advanced_usage/access_permissions_for_para/student.py" />
+        <option value="$PROJECT_DIR$/studyPython2/advanced_usage/access_permissions_for_para/test_para.py" />
+        <option value="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/Student.py" />
+        <option value="$PROJECT_DIR$/studyPython2/parameter/test_args_kwargs.py" />
+        <option value="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/test_para_attr.py" />
+        <option value="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/primary_student.py" />
+        <option value="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/animal.py" />
+        <option value="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/bird.py" />
+        <option value="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/mammal.py" />
+        <option value="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/Dog.py" />
+        <option value="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/runnable.py" />
+        <option value="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/fly.py" />
+        <option value="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/flyable.py" />
+        <option value="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/dog.py" />
+        <option value="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/parrot.py" />
+        <option value="$PROJECT_DIR$/studyPython2/base/test_dict_set.py" />
+        <option value="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/custom_classes.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="78" />
-    <option name="y" value="23" />
-    <option name="width" value="1400" />
-    <option name="height" value="793" />
+    <option name="x" value="93" />
+    <option name="y" value="32" />
+    <option name="width" value="1177" />
+    <option name="height" value="759" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -178,6 +213,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,19 +229,6 @@
             <path>
               <item name="studyPy" type="b2602c69:ProjectViewProjectNode" />
               <item name="studyPy" type="462c0819:PsiDirectoryNode" />
-              <item name="studyPytest" type="462c0819:PsiDirectoryNode" />
-              <item name="fixture" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyPy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyPy" type="462c0819:PsiDirectoryNode" />
-              <item name="studyPytest" type="462c0819:PsiDirectoryNode" />
-              <item name="fixture" type="462c0819:PsiDirectoryNode" />
-              <item name="scope" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyPy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyPy" type="462c0819:PsiDirectoryNode" />
               <item name="studyPython2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -219,7 +242,13 @@
               <item name="studyPy" type="462c0819:PsiDirectoryNode" />
               <item name="studyPython2" type="462c0819:PsiDirectoryNode" />
               <item name="advanced_usage" type="462c0819:PsiDirectoryNode" />
-              <item name="higher_order_function" type="462c0819:PsiDirectoryNode" />
+              <item name="para_attr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyPy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyPy" type="462c0819:PsiDirectoryNode" />
+              <item name="studyPython2" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="studyPy" type="b2602c69:ProjectViewProjectNode" />
@@ -230,10 +259,29 @@
             <path>
               <item name="studyPy" type="b2602c69:ProjectViewProjectNode" />
               <item name="studyPy" type="462c0819:PsiDirectoryNode" />
+              <item name="studyPython2" type="462c0819:PsiDirectoryNode" />
+              <item name="special_for_usage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyPy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyPy" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="studyPy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyPy" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyPy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyPy" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="python2.7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyPy" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -245,13 +293,12 @@
               <item name="studyPy" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="&lt; Python 2.7 (studyPy) (2) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="1125399175" type="70582d5e:PySkeletonsNode" />
+              <item name="python2.7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -263,17 +310,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/studyPython2/advanced_usage/use_with" />
+      <recent name="$PROJECT_DIR$/studyPython2/io" />
+      <recent name="$PROJECT_DIR$/studyPython2/io/data" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/studyPython2/advanced_usage" />
       <recent name="$PROJECT_DIR$/studyPytest/fixture" />
       <recent name="$PROJECT_DIR$/studyPython2/special_for_ues/send_email" />
       <recent name="$PROJECT_DIR$/studyPython2/function/format" />
       <recent name="$PROJECT_DIR$/studyPython2/parameter" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/studyPython2/advanced_usage/use_with" />
-      <recent name="$PROJECT_DIR$/studyPython2/io" />
-      <recent name="$PROJECT_DIR$/studyPython2/io/data" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -288,8 +335,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_partial.TestPartial.test_int">
-    <configuration name="log_decorator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.custom_classes">
+    <configuration name="custom_classes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="studyPy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -297,12 +344,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/studyPython2/advanced_usage/decorator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/studyPython2/advanced_usage/decorator/log_decorator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/custom_classes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -311,84 +358,84 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_decorator.TestDecorator" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for primary_student.TestPrimaryStudent.test_para_attr" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="studyPy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/studyPython2/advanced_usage/decorator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_decorator.TestDecorator&quot;" />
+      <option name="_new_target" value="&quot;primary_student.TestPrimaryStudent.test_para_attr&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_decorator.TestDecorator.test_decorator" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_args_kwargs.TestArgsKwargs.test_kwargs" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="studyPy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/studyPython2/advanced_usage/decorator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/studyPython2/parameter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_decorator.TestDecorator.test_decorator&quot;" />
+      <option name="_new_target" value="&quot;test_args_kwargs.TestArgsKwargs.test_kwargs&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_partial.TestPartial.test_int" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_args_kwargs.TestArgsKwargs.test_kwargs_1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="studyPy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/studyPython2/advanced_usage" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/studyPython2/parameter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_partial.TestPartial.test_int&quot;" />
+      <option name="_new_target" value="&quot;test_args_kwargs.TestArgsKwargs.test_kwargs_1&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_decorator.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_dict_set.TestDictSet.test_dict" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="studyPy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/studyPython2/advanced_usage/decorator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/studyPython2/base" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/studyPython2/advanced_usage/decorator/test_decorator.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_dict_set.TestDictSet.test_dict&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.pytest for test_decorator.TestDecorator.test_decorator" />
-      <item itemvalue="Python tests.pytest for test_decorator.TestDecorator" />
-      <item itemvalue="Python tests.pytest in test_decorator.py" />
-      <item itemvalue="Python.log_decorator" />
-      <item itemvalue="Python tests.pytest for test_partial.TestPartial.test_int" />
+      <item itemvalue="Python.custom_classes" />
+      <item itemvalue="Python tests.pytest for test_args_kwargs.TestArgsKwargs.test_kwargs" />
+      <item itemvalue="Python tests.pytest for test_args_kwargs.TestArgsKwargs.test_kwargs_1" />
+      <item itemvalue="Python tests.pytest for primary_student.TestPrimaryStudent.test_para_attr" />
+      <item itemvalue="Python tests.pytest for test_dict_set.TestDictSet.test_dict" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_partial.TestPartial.test_int" />
-        <item itemvalue="Python.log_decorator" />
-        <item itemvalue="Python tests.pytest in test_decorator.py" />
-        <item itemvalue="Python tests.pytest for test_decorator.TestDecorator.test_decorator" />
-        <item itemvalue="Python tests.pytest for test_decorator.TestDecorator" />
+        <item itemvalue="Python.custom_classes" />
+        <item itemvalue="Python tests.pytest for test_dict_set.TestDictSet.test_dict" />
+        <item itemvalue="Python tests.pytest for primary_student.TestPrimaryStudent.test_para_attr" />
+        <item itemvalue="Python tests.pytest for test_args_kwargs.TestArgsKwargs.test_kwargs_1" />
+        <item itemvalue="Python tests.pytest for test_args_kwargs.TestArgsKwargs.test_kwargs" />
       </list>
     </recent_temporary>
   </component>
@@ -414,54 +461,70 @@
       <workItem from="1565690177526" duration="882000" />
       <workItem from="1565766745270" duration="6275000" />
       <workItem from="1565850773491" duration="5490000" />
-      <workItem from="1566185789663" duration="17210000" />
+      <workItem from="1566185789663" duration="17461000" />
+      <workItem from="1566788273821" duration="637000" />
+      <workItem from="1567666437218" duration="647000" />
+      <workItem from="1567739804068" duration="582000" />
+      <workItem from="1567994310896" duration="1445000" />
+      <workItem from="1568085493644" duration="554000" />
+      <workItem from="1568108079414" duration="378000" />
+      <workItem from="1568253544609" duration="366000" />
+      <workItem from="1568601772497" duration="2909000" />
+      <workItem from="1568703864060" duration="1394000" />
+      <workItem from="1568713886187" duration="115000" />
+      <workItem from="1568882231555" duration="4740000" />
+      <workItem from="1569304032158" duration="411000" />
+      <workItem from="1569320287600" duration="2514000" />
+      <workItem from="1569475833416" duration="3405000" />
+      <workItem from="1569549473437" duration="3888000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_for_test_decorator_TestDecorator_test_decorator - 2019.08.23 at 17h 16m 56s.xml">
-      <configuration name="pytest for test_decorator.TestDecorator.test_decorator" configurationId="tests" />
+    <history-entry file="pytest_for_primary_student_TestPrimaryStudent_test_para_attr - 2019.09.26 at 13h 37m 16s.xml">
+      <configuration name="pytest for primary_student.TestPrimaryStudent.test_para_attr" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_decorator_TestDecorator - 2019.08.23 at 17h 17m 19s.xml">
-      <configuration name="pytest for test_decorator.TestDecorator" configurationId="tests" />
+    <history-entry file="pytest_for_primary_student_TestPrimaryStudent_test_para_attr - 2019.09.26 at 13h 37m 22s.xml">
+      <configuration name="pytest for primary_student.TestPrimaryStudent.test_para_attr" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_decorator_TestDecorator_test_decorator - 2019.08.23 at 17h 19m 03s.xml">
-      <configuration name="pytest for test_decorator.TestDecorator.test_decorator" configurationId="tests" />
+    <history-entry file="pytest_for_primary_student_TestPrimaryStudent_test_para_attr - 2019.09.26 at 13h 37m 33s.xml">
+      <configuration name="pytest for primary_student.TestPrimaryStudent.test_para_attr" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_decorator_py - 2019.08.23 at 17h 22m 00s.xml">
-      <configuration name="pytest in test_decorator.py" configurationId="tests" />
+    <history-entry file="pytest_for_primary_student_TestPrimaryStudent_test_para_attr - 2019.09.26 at 13h 37m 53s.xml">
+      <configuration name="pytest for primary_student.TestPrimaryStudent.test_para_attr" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_partial_TestPartial_test_int - 2019.08.23 at 18h 12m 24s.xml">
-      <configuration name="pytest for test_partial.TestPartial.test_int" configurationId="tests" />
+    <history-entry file="pytest_for_primary_student_TestPrimaryStudent_test_para_attr - 2019.09.26 at 13h 43m 18s.xml">
+      <configuration name="pytest for primary_student.TestPrimaryStudent.test_para_attr" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_partial_TestPartial_test_int - 2019.08.23 at 18h 13m 50s.xml">
-      <configuration name="pytest for test_partial.TestPartial.test_int" configurationId="tests" />
+    <history-entry file="pytest_for_primary_student_TestPrimaryStudent_test_para_attr - 2019.09.26 at 13h 43m 49s.xml">
+      <configuration name="pytest for primary_student.TestPrimaryStudent.test_para_attr" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_partial_TestPartial_test_int - 2019.08.23 at 18h 14m 09s.xml">
-      <configuration name="pytest for test_partial.TestPartial.test_int" configurationId="tests" />
+    <history-entry file="pytest_for_primary_student_TestPrimaryStudent_test_para_attr - 2019.09.26 at 13h 44m 04s.xml">
+      <configuration name="pytest for primary_student.TestPrimaryStudent.test_para_attr" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_partial_TestPartial_test_int - 2019.08.23 at 18h 14m 22s.xml">
-      <configuration name="pytest for test_partial.TestPartial.test_int" configurationId="tests" />
+    <history-entry file="pytest_for_test_dict_set_TestDictSet_test_dict - 2019.09.27 at 16h 27m 22s.xml">
+      <configuration name="pytest for test_dict_set.TestDictSet.test_dict" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_partial_TestPartial_test_int - 2019.08.23 at 18h 14m 49s.xml">
-      <configuration name="pytest for test_partial.TestPartial.test_int" configurationId="tests" />
+    <history-entry file="pytest_for_test_dict_set_TestDictSet_test_dict - 2019.09.27 at 16h 27m 24s.xml">
+      <configuration name="pytest for test_dict_set.TestDictSet.test_dict" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_partial_TestPartial_test_int - 2019.08.23 at 18h 15m 09s.xml">
-      <configuration name="pytest for test_partial.TestPartial.test_int" configurationId="tests" />
+    <history-entry file="pytest_for_test_dict_set_TestDictSet_test_dict - 2019.09.27 at 17h 29m 07s.xml">
+      <configuration name="pytest for test_dict_set.TestDictSet.test_dict" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126042000" />
+    <option name="totallyTimeSpent" value="150278000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="78" y="23" width="1400" height="793" extended-state="0" />
+    <frame x="93" y="32" width="1177" height="759" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989011" visible="true" weight="0.20913108" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989011" visible="true" weight="0.30837005" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32890856" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970502" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5015528" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39906833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -476,7 +539,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Structure" order="5" sideWeight="0.50109893" visible="true" weight="0.18041237" />
+      <window_info anchor="right" id="Structure" order="5" sideWeight="0.50109893" visible="true" weight="0.21585903" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -493,8 +556,8 @@
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_format_TestFormat_test_param.coverage" NAME="pytest for test_format.TestFormat.test_param Coverage Results" MODIFIED="1564740340703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/function/format" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_for_if_TestForIf_test_for.coverage" NAME="pytest for test_for_if.TestForIf.test_for Coverage Results" MODIFIED="1562308993280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/base" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_iteration_TestIteration_test_iteration_string.coverage" NAME="pytest for test_iteration.TestIteration.test_iteration_string Coverage Results" MODIFIED="1565684535276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage" />
-    <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_args_kwargs_TestArgsKwargs_test_kwargs.coverage" NAME="pytest for test_args_kwargs.TestArgsKwargs.test_kwargs Coverage Results" MODIFIED="1563180857562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_iteration_TestIteration_test_iteration_dict.coverage" NAME="pytest for test_iteration.TestIteration.test_iteration_dict Coverage Results" MODIFIED="1565682413267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage" />
+    <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_args_kwargs_TestArgsKwargs_test_kwargs.coverage" NAME="pytest for test_args_kwargs.TestArgsKwargs.test_kwargs Coverage Results" MODIFIED="1569304274008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/parameter" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test__list_comprehensions_TestListComprehension_test_comprehension_list.coverage" NAME="pytest for test_ list_comprehensions.TestListComprehension.test_comprehension_list Coverage Results" MODIFIED="1565686698981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_scope_cls_TestScopeCls_test_scope_one.coverage" NAME="pytest for test_scope_cls.TestScopeCls.test_scope_one Coverage Results" MODIFIED="1566195321575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPytest/fixture/scope" />
     <SUITE FILE_PATH="coverage/studyPy$log_decorator.coverage" NAME="log_decorator Coverage Results" MODIFIED="1566554664097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage/decorator" />
@@ -502,19 +565,24 @@
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_io_TestIo_test_unicde.coverage" NAME="pytest for test_io.TestIo.test_unicde Coverage Results" MODIFIED="1562581007766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/io" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_format_TestFormat_test_format_number.coverage" NAME="pytest for test_format.TestFormat.test_format_number Coverage Results" MODIFIED="1564741094986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/function/format" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_reduce_TestReduce_test_str2int.coverage" NAME="pytest for test_reduce.TestReduce.test_str2int Coverage Results" MODIFIED="1566288047771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage/higher_order_function" />
+    <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_para_attr_TestParaAttr_test_add_method_for_instance.coverage" NAME="pytest for test_para_attr.TestParaAttr.test_add_method_for_instance Coverage Results" MODIFIED="1568950887174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_reduce_TestReduce_test_reduce_num.coverage" NAME="pytest for test_reduce.TestReduce.test_reduce_num Coverage Results" MODIFIED="1565864707784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage/higher_order_function" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_scope_cls_TestScopeCls.coverage" NAME="pytest for test_scope_cls.TestScopeCls Coverage Results" MODIFIED="1566195326151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPytest/fixture/scope" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_junp_double_loop_TestJumpDoubleLoop_test_jump_by_return.coverage" NAME="pytest for test_junp_double_loop.TestJumpDoubleLoop.test_jump_by_return Coverage Results" MODIFIED="1565334747095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/special_for_ues/jump_double_loop" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_iteration_TestIteration_test_iteration_list.coverage" NAME="pytest for test_iteration.TestIteration.test_iteration_list Coverage Results" MODIFIED="1565681814453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_generator_TestGenerator_test_yield.coverage" NAME="pytest for test_generator.TestGenerator.test_yield Coverage Results" MODIFIED="1565773696115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_list_comprehensions_TestListComprehension_test_comprehension_dict.coverage" NAME="pytest for test_list_comprehensions.TestListComprehension.test_comprehension_dict Coverage Results" MODIFIED="1565688293341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage" />
-    <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_dict_set_TestDictSet_test_dict.coverage" NAME="pytest for test_dict_set.TestDictSet.test_dict Coverage Results" MODIFIED="1562314409726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/base" />
+    <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_dict_set_TestDictSet_test_dict.coverage" NAME="pytest for test_dict_set.TestDictSet.test_dict Coverage Results" MODIFIED="1569576546408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/base" />
     <SUITE FILE_PATH="coverage/studyPy$study_string.coverage" NAME="study_string Coverage Results" MODIFIED="1562317395033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/base" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_io_TestIo_test_function.coverage" NAME="pytest for test_io.TestIo.test_function Coverage Results" MODIFIED="1562744542829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/io" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_junp_double_loop_TestJumpDoubleLoop_test_jump_for_else.coverage" NAME="pytest for test_junp_double_loop.TestJumpDoubleLoop.test_jump_for_else Coverage Results" MODIFIED="1565336980958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/special_for_ues/jump_double_loop" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_reduce_TestReduce_test_reduce_add.coverage" NAME="pytest for test_reduce.TestReduce.test_reduce_add Coverage Results" MODIFIED="1565864392053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage/higher_order_function" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_base_function_TestBaseFunction_test_base_function.coverage" NAME="pytest for test_base_function.TestBaseFunction.test_base_function Coverage Results" MODIFIED="1562554639178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/function" />
+    <SUITE FILE_PATH="coverage/studyPy$pytest_for_primary_student_TestPrimaryStudent_test_para_attr.coverage" NAME="pytest for primary_student.TestPrimaryStudent.test_para_attr Coverage Results" MODIFIED="1569476643395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_filter_TestFilter_test_filter.coverage" NAME="pytest for test_filter.TestFilter.test_filter Coverage Results" MODIFIED="1566291849696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage/higher_order_function" />
+    <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_para_attr_TestParaAttr_test_para_attr.coverage" NAME="pytest for test_para_attr.TestParaAttr.test_para_attr Coverage Results" MODIFIED="1568883824401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr" />
+    <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_para_attr_TestParaAttr.coverage" NAME="pytest for test_para_attr.TestParaAttr Coverage Results" MODIFIED="1568886528586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr" />
+    <SUITE FILE_PATH="coverage/studyPy$pytest_for_primary_student_TestPrimaryStudent_test_app.coverage" NAME="pytest for primary_student.TestPrimaryStudent.test_app Coverage Results" MODIFIED="1568704500598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_iteration_TestIteration_test_iteration_tuple.coverage" NAME="pytest for test_iteration.TestIteration.test_iteration_tuple Coverage Results" MODIFIED="1565684590303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_list_comprehensions_TestListComprehension_test_comprehension_list.coverage" NAME="pytest for test_list_comprehensions.TestListComprehension.test_comprehension_list Coverage Results" MODIFIED="1565688174837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_partial_TestPartial_test_int.coverage" NAME="pytest for test_partial.TestPartial.test_int Coverage Results" MODIFIED="1566555432696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage" />
@@ -536,6 +604,7 @@
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_scope_fun_TestScopeFun_test_scope_base.coverage" NAME="pytest for test_scope_fun.TestScopeFun.test_scope_base Coverage Results" MODIFIED="1566187012920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPytest/fixture/scope" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_lambda_TestLambda_test_lambda.coverage" NAME="pytest for test_lambda.TestLambda.test_lambda Coverage Results" MODIFIED="1565864985869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/function" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_dict_set_TestDictSet.coverage" NAME="pytest for test_dict_set.TestDictSet Coverage Results" MODIFIED="1562317303212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/base" />
+    <SUITE FILE_PATH="coverage/studyPy$custom_classes.coverage" NAME="custom_classes Coverage Results" MODIFIED="1569576551458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage/para_attr" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_recursive_func_TestRecursiveFunc_test_recursive_func.coverage" NAME="pytest for test_recursive_func.TestRecursiveFunc.test_recursive_func Coverage Results" MODIFIED="1565343356457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/function" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_decorator_TestDecorator_test_decorator.coverage" NAME="pytest for test_decorator.TestDecorator.test_decorator Coverage Results" MODIFIED="1566551942819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage/decorator" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_io_TestIo_test_get_contents.coverage" NAME="pytest for test_io.TestIo.test_get_contents Coverage Results" MODIFIED="1562742302374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/io" />
@@ -545,6 +614,7 @@
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_advanced_function_TestAdvancedFunciton_test_function.coverage" NAME="pytest for test_advanced_function.TestAdvancedFunciton.test_function Coverage Results" MODIFIED="1563246305835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/function" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_map_TestMap_test_map_params.coverage" NAME="pytest for test_map.TestMap.test_map_params Coverage Results" MODIFIED="1565864061846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage/higher_order_function" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_function_TestFunction_test_internal_function.coverage" NAME="pytest for test_function.TestFunction.test_internal_function Coverage Results" MODIFIED="1565070349494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage" />
+    <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_para_TestPara_test_para.coverage" NAME="pytest for test_para.TestPara.test_para Coverage Results" MODIFIED="1568602936875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage/access_permissions_for_para" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_sorted_TestSorted_test_scorted.coverage" NAME="pytest for test_sorted.TestSorted.test_scorted Coverage Results" MODIFIED="1566293427292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage/higher_order_function" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_scope_TestScope_test_scope.coverage" NAME="pytest for test_scope.TestScope.test_scope Coverage Results" MODIFIED="1566186453598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPytest/fixture/scope" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_format_TestFormat_test_for.coverage" NAME="pytest for test_format.TestFormat.test_for Coverage Results" MODIFIED="1564733391046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/function" />
@@ -555,131 +625,12 @@
     <SUITE FILE_PATH="coverage/studyPy$raw_input_method.coverage" NAME="raw_input_method Coverage Results" MODIFIED="1562310256031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/base" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_lambda_TestLambda_test_lambda_anonymous_fun.coverage" NAME="pytest for test_lambda.TestLambda.test_lambda_anonymous_fun Coverage Results" MODIFIED="1566443754369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/function" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_higher_order_func_TestHigherOrderFunc_test_func_and_variable.coverage" NAME="pytest for test_higher_order_func.TestHigherOrderFunc.test_func_and_variable Coverage Results" MODIFIED="1565851621014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/advanced_usage/higher_order_function" />
+    <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_args_kwargs_TestArgsKwargs_test_kwargs_1.coverage" NAME="pytest for test_args_kwargs.TestArgsKwargs.test_kwargs_1 Coverage Results" MODIFIED="1569378038670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/parameter" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_in_test_string_py.coverage" NAME="pytest in test_string.py Coverage Results" MODIFIED="1562317330957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/base" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_test_dict_set_TestDictSet_test_set.coverage" NAME="pytest for test_dict_set.TestDictSet.test_set Coverage Results" MODIFIED="1562319121765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/base" />
     <SUITE FILE_PATH="coverage/studyPy$pytest_for_raw_input_method_TestRawInput_test_string_int.coverage" NAME="pytest for raw_input_method.TestRawInput.test_string_int Coverage Results" MODIFIED="1562309894623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/studyPython2/base" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/studyPython2/io/data/pdfgen.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="546">
-          <caret line="104" selection-start-line="104" selection-end-line="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/1125399175/posix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="578" column="8" selection-start-line="578" selection-start-column="4" selection-end-line="578" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/base/test_for_if.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/base/variable.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/base/quotation_mark.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/base/raw_input_method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/parameter/test_args_kwargs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/function/test_advanced_function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/parameter/test_base_para.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/parameter/test_default_para.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/mime/text.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/smtplib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-86">
-          <caret line="708" column="36" selection-start-line="708" selection-start-column="33" selection-end-line="708" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/function/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/io/test_io.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="60" column="15" selection-start-line="60" selection-start-column="15" selection-end-line="60" selection-end-column="15" />
-          <folding>
-            <element signature="e#51#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/special_for_usage/send_email/test_send_email.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="31" />
-          <folding>
-            <element signature="e#50#64#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/special_for_usage/jump_double_loop/test_junp_double_loop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/function/format/example_object.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/function/format/test_format.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/studyPython2/function/test_recursive_func.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -687,38 +638,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/base/test_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/use_with/with_method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/use_with/with_method2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/studyPython2/function/test_base_function.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/base/test_dict_set.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="51" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -739,31 +662,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/test_slice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/test_iteration.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="57" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/studyPython2/error/test_io_open_error.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/use_yield/test_yield.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="15" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -815,20 +717,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/higher_order_function/test_higher_order_func.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/higher_order_function/test_map.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/higher_order_function/test_filter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -836,34 +724,141 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/decorator/test_decorator.py" />
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/1125399175/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="904" column="30" selection-start-line="904" selection-start-column="26" selection-end-line="904" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/higher_order_function/test_reduce.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret selection-end-line="1" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/function/test_lambda.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="19" column="25" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/test_call_func.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="1" selection-end-column="31" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/higher_order_function/test_sorted.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/higher_order_function/test_higher_order_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/special_for_usage/setup_teardown/te" />
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/use_with/with_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/use_with/with_method2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/use_yield/test_yield.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="15" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/special_for_usage/setup_teardown/test_setup_teardown.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/test_slice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/test_partial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/higher_order_function/test_map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/test_iteration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="57" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/test_call_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python2.7/types.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="56" column="17" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/test_scope_para.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/access_permissions_for_para/student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/parameter/test_args_kwargs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/base/test_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/access_permissions_for_para/test_para.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="14" selection-start-line="3" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -874,31 +869,109 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/decorator/test_decorator.py">
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/test_return_fun.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="28" />
+        <state>
+          <caret selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/test_return_fun.py">
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/function/test_lambda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/test_para_attr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="52" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="52" />
+          <folding>
+            <element signature="e#50#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/primary_student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="31" />
+          <folding>
+            <element signature="e#50#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/animal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="1" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/1125399175/__builtin__.py">
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/dog.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="904" column="30" selection-start-line="904" selection-start-column="26" selection-end-line="904" selection-end-column="30" />
+        <state relative-caret-position="75">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <element signature="e#50#75#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/test_partial.py">
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/mammal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        <state>
+          <caret selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/parrot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#50#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/runnable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/flyable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/bird.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/base/test_dict_set.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-147">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyPython2/advanced_usage/para_attr/custom_classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="47" column="10" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
         </state>
       </provider>
     </entry>
